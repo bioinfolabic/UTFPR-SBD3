@@ -41,17 +41,13 @@ CLASSES_PATH = './classes.txt'
 
 
 if os.path.exists(PATH_IMAGES) == False:
-	path  = 'dataset.tar.gz'
-	opener, mode = tarfile.open, 'r:gz'
-	cwd = os.getcwd()
+	os.system('cat osvidcap_dataset.part* > ./osvidcap_dataset.tar.gz') 
 
-	try:
-		print("Extracting dataset")
-		file = opener(path, mode)
-		try: file.extractall()
-		finally: file.close()
-	finally:
-		os.chdir(cwd)
+	file_path  = './osvidcap_dataset.tar.gz'
+	file = tarfile.open(file_path)
+	file.extractall('./')
+	file.close()
+
 
 
 target_names=loadClasses(CLASSES_PATH)
