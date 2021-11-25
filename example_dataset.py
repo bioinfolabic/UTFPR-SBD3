@@ -41,9 +41,9 @@ CLASSES_PATH = './classes.txt'
 
 
 if os.path.exists(PATH_IMAGES) == False:
-	os.system('cat osvidcap_dataset.part* > ./osvidcap_dataset.tar.gz') 
+	os.system('cat utfpr_sbd3.part* > ./utfpr_sbd3.tar.gz') 
 
-	file_path  = './osvidcap_dataset.tar.gz'
+	file_path  = './utfpr_sbd3.tar.gz'
 	file = tarfile.open(file_path)
 	file.extractall('./')
 	file.close()
