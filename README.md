@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Soft biometrics is an emerging area of research, mainly due to its extensive applicability in people surveillance. It is related to human characteristics that can be used for people tracking and identification based on appearance, including physical, behavioral or adhered (such as clothing) features. Semantic segmentation of clothes is still a challenge for researchers because of the wide variety of clothing styles, layering, and shapes. Datasets available for the clothing segmentation task, such as CFPD and Fashionista, are quite small, they have several annotation errors (at the pixel level) and a high unbalanced class distribution. To overcome these problems, we propose a new benchmark, named **UTFPR-SBD3**, containing 4,500 images manually annotated within 18 classes, plus the background.
+Soft biometrics is an emerging area of research, mainly due to its extensive applicability in people surveillance. It is related to human characteristics that can be used for people tracking and identification based on appearance, including physical, behavioral or adhered (such as clothing) features. Semantic segmentation of clothes is still a challenge for researchers because of the wide variety of clothing styles, layering, and shapes.
 
 ## Dataset description
 
