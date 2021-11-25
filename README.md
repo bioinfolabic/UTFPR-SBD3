@@ -1,4 +1,4 @@
-# UTFPR-HSD - Federal University of Technology - Paraná - Soft Biometrics Dataset III
+# UTFPR-SBD3 - Federal University of Technology - Paraná - Soft Biometrics Dataset3
 
 ## Introduction
 
@@ -18,11 +18,20 @@ Considering that all images in the dataset were annotated in a per-pixel basis, 
 
 ![Specification Table](Statistics.png)
 
+## Links to the data
+
+### UTFPR-HSD1 and UTFPR-HSD2
+[Download](https://drive.google.com/file/d/1DxK8q6-v_FRsnjQ_RQrZrtVQ8-31gBsC/view?usp=sharing)
+
 
 ## Related Papers
 
 If you use of the UTFPR-SDB3 dataset, please cite the following reference in any publications:
 
+
+A. De Souza Inácio and H. S. Lopes, "EPYNET: Efficient Pyramidal Network for Clothing Segmentation," in IEEE Access, vol. 8, pp. 187882-187892, 2020, doi: 10.1109/ACCESS.2020.3030859.
+
+```
 @ARTICLE{9222020,
   author={De Souza Inácio, Andrei and Lopes, Heitor Silvério},
   journal={IEEE Access}, 
@@ -32,4 +41,4 @@ If you use of the UTFPR-SDB3 dataset, please cite the following reference in any
   number={},
   pages={187882-187892},
   doi={10.1109/ACCESS.2020.3030859}}
-
+```
