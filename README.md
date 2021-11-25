@@ -20,8 +20,7 @@ Considering that all images in the dataset were annotated in a per-pixel basis, 
 
 ## Links to the data
 
-### UTFPR-HSD1 and UTFPR-HSD2
-[Download](https://drive.google.com/file/d/1DxK8q6-v_FRsnjQ_RQrZrtVQ8-31gBsC/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1f_vJ-G0oAFLCP7C_6TUeoQuEhHor7JZq/view?usp=sharing)
 
 
 ## Related Papers
