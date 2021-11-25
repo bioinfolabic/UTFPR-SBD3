@@ -18,7 +18,7 @@ Considering that all images in the dataset were annotated in a per-pixel basis, 
 
 ![Specification Table](Statistics.png)
 
-## Links to the data
+## Link to the data
 
 [Download](https://drive.google.com/file/d/1f_vJ-G0oAFLCP7C_6TUeoQuEhHor7JZq/view?usp=sharing)
 
