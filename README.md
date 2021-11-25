@@ -4,11 +4,16 @@
 
 Soft biometrics is an emerging area of research, mainly due to its extensive applicability in people surveillance. It is related to human characteristics that can be used for people tracking and identification based on appearance, including physical, behavioral or adhered (such as clothing) features. Semantic segmentation of clothes is still a challenge for researchers because of the wide variety of clothing styles, layering, and shapes.
 
+
 ## Dataset description
 
 This dataset was constructed by combining crawled images from Chictopia.com and images from three existing public datasets: CCP (Clothing Co-Parsing dataset), CFPD (Colorful Fashion Parsing Dataset) and Fashionista dataset.
 
-All images in the dataset are standardized at 400x600 pixels in RGB, and they were manually annotated using the JS Segment Annotator, a free web-based image annotation tool. Clothes were grouped into classes, as follows:
+All images in the dataset are standardized at 400x600 pixels in RGB, and they were manually annotated using the JS Segment Annotator, a free web-based image annotation tool. 
+For more information about the dataset, please see the paper [EPYNET: Efficient Pyramidal Network for Clothing Segmentation](https://ieeexplore.ieee.org/abstract/document/9222020).
+
+Clothes were grouped into classes, as follows:
+
 
 
 
